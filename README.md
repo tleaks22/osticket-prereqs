@@ -59,3 +59,13 @@ Here I installed and setup PHP directory along with the necessary rewrite module
 Here I installed MySQL and setup user credentials and C++redistributable 
 </p>
 <br />
+<p>
+
+<img width="717" height="558" alt="image" src="https://github.com/user-attachments/assets/04c5e16d-0c5a-4611-8081-a156b14f1c8d" />
+
+
+</p>
+<p>
+Here we finally installed the OSticket platform on the VM within microsoft azure
+</p>
+<br />
