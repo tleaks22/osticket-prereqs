@@ -38,6 +38,13 @@ Here I set up the actual OSTicket VM to house our Active Directory system.
 <p>
 <img width="615" height="414" alt="image" src="https://github.com/user-attachments/assets/eca2d548-1c45-4afe-81f0-13db31d84830" />
 
+<p>
+<img width="797" height="302" alt="image" src="https://github.com/user-attachments/assets/f5be735d-b86f-48e4-8d7a-9eac2f1c1738" />
+</p>
+<p>
+Here I downloaded and extracted all the necessary dependencies from the provided ticket installation files.
+</p>
+<br />
 
 </p>
 <p>
