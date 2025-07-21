@@ -28,6 +28,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
+<img width="936" height="817" alt="image" src="https://github.com/user-attachments/assets/2e576679-c706-4d61-9436-db195f6d1207" />
+
+</p>
+<p>
+Here I set up the actual OSTicket VM to house our Active Directory system.
+</p>
+<br />
+<p>
 <img width="615" height="414" alt="image" src="https://github.com/user-attachments/assets/eca2d548-1c45-4afe-81f0-13db31d84830" />
 
 
