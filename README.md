@@ -19,10 +19,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
-
+- Create a VM with specifications to house AD system in Microsoft Azure
+- Download and extract files from the provided OS ticket file pack
 - Enable information services
-- Install PHP file and rewrite module
-- Install MySQL and setup user credentials and C++redistributable 
+- Install the PHP file and rewrite module
+- Install MySQL and set up user credentials and C++redistributable 
 - configure permissions and install OS ticket
 
 <h2>Installation Steps</h2>
@@ -74,7 +75,7 @@ Here I installed and setup PHP directory along with the necessary rewrite module
 
 </p>
 <p>
-Here I installed MySQL and setup user credentials and C++redistributable 
+Here I installed MySQL and set up user credentials and C++redistributable 
 </p>
 <br />
 <p>
@@ -84,6 +85,6 @@ Here I installed MySQL and setup user credentials and C++redistributable
 
 </p>
 <p>
-Here we finally installed the OSticket platform on the VM within microsoft azure
+Here we finally installed the OSticket platform on the VM within Microsoft Azure
 </p>
 <br />
